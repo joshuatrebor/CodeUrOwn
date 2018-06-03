@@ -1,0 +1,17 @@
+n,int
+n,float
+n,double
+n,short
+n,long
+n,Integer
+n,Float
+n,Double
+n,Short
+n,Long
+b,boolean
+c,char
+c,Character
+s,String
+v,void
+b,true
+b,false
